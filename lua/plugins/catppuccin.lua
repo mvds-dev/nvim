@@ -4,6 +4,6 @@ return {
 	name = "catppuccin",
 	priority = 1000,
 	opts = function()
-		vim.cmd.colorscheme("catppuccin-mocha")
+		vim.cmd.colorscheme("catppuccin-frappe")
 	end,
 }
